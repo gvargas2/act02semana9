@@ -1,0 +1,38 @@
+
+.new_tweet {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 5px;
+  box-sizing: content-box;
+  padding: 10px;
+}
+
+.new_tweet__publicado {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 5px;
+  box-sizing: content-box;
+}
+.eliminar {
+  display: inline-block;
+  text-align: right;
+}
+.foto_usuario {
+  width: 35px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.nombre_usuario {
+  display: inline-block;
+}
+
+.foto_publicada {
+  position: relative;
+  left: 66px;
+}
+
+.contador_likes {
+  display: inline-block;
+}
